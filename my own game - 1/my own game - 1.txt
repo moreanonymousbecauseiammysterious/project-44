@@ -1,0 +1,37 @@
+1. name of project:
+Alien Attack!
+
+2. what is the goal of the game:
+the goal of the game is to defeat all of the aliens and to not let
+the aliens touch the earth.
+
+3. write a story on the game: 
+Jason, an average adult who is 31 years of age, finds out from the
+earth, and that they have only one weapon that might be of use to
+stop the aliens, but that they only created one, and it would take
+another 10 years to find the resources to create another, since this
+one also took so long to cretae. Jason finds himself about to sneeze,
+and can't hold it in, and is soon discovered by a guard, and sent to
+the government for his punishment, but Jason isn't someone who will
+go down without a fight. he soon finds himself in front of the
+president, and shows just how good a fighter he really is. the
+president then decides that Jason should be the one to deffend the
+earth since he already knows about the attack, and now finds himself
+armed and ready to take down the aliens that are coming.
+
+4. playing characters in this game:
+- Jason
+- laser Gun
+
+5. non-playing characters in this game:
+- aliens
+
+6. draw your game:
+bg: "mygame.bg"
+
+7. how do I plan to make my game engaging:
+I plan to make my game engaging by using aliens attacking earth,
+and having the player use Jason to fend them off. if Jason fails
+to do so, the game will come to an end. he techically cannot succeed,
+because it will go infinitely. he must shoot the aliens with his
+special vaporizing gun.
